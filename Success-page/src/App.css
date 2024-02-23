@@ -1,0 +1,25 @@
+.home {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  padding: 2rem;
+  font-family: sans-serif;
+}
+
+.home h1 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.home p {
+  font-size: 1rem;
+  line-height: 1.5;
+  margin-bottom: 2rem;
+}
+
+.home a {
+  padding: 1rem 2rem;
+  border: none;
+}
