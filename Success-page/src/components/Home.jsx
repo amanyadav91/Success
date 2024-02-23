@@ -7,7 +7,7 @@ function Home() {
      <h1>Welcome to our store!</h1>
       <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
       sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliqua.</p>
-      <Link to="/thank-you">Place an order</Link>
+      <button className='btn'><Link to="/thank-you">Place an order</Link></button>
     </div>
   );
 }
