@@ -27,9 +27,10 @@
     display: flex;
     justify-content: space-between;
     gap: 10px;
-    border: none;
+    border:none;
     border-radius: 5px;
-    cursor: pointer;
-    background-color: #007bff;
-    color: #fff;
+    cursor:pointer;
+    background-color: #bcd433;
+   color: white;
+   text-decoration: none;
 }
